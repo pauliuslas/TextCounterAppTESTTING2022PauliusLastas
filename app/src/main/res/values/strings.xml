@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextCounterApp2022PauliusLastas</string>
+    <string-array name="counting_options">
+        <item>Words</item>
+        <item>Chars</item>
+    </string-array>
+</resources>
